@@ -38,15 +38,15 @@ The system uses **similarity features**, **CatBoost classification**, **active l
 
 Below is an example SHAP dependency plot showing the **non-linear U-shaped effect** of `code_score` and interaction with `manufacturer_score`:
 
-![SHAP Plot](<img width="648" height="459" alt="output3" src="https://github.com/user-attachments/assets/dc352d83-9a83-4092-916e-43dad32b475b" />
-)
+<img width="648" height="459" alt="output3" src="https://github.com/user-attachments/assets/60fe2ab0-5b81-4ab5-be89-b8517ff9f9b8" />
+
 
 ---
 
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/abhishek0841/Product-Matching-Across-Online-Shops.git
 cd <repo-name>
 pip install -r requirements.txt
 jupyter notebook notebook/solution.ipynb
