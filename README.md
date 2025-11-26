@@ -41,8 +41,6 @@ Below is an example SHAP dependency plot showing the **non-linear U-shaped effec
 ![SHAP Plot](<img width="648" height="459" alt="output3" src="https://github.com/user-attachments/assets/dc352d83-9a83-4092-916e-43dad32b475b" />
 )
 
-*(Add your image to `images/` and ensure the filename matches.)*
-
 ---
 
 ## 🛠 Installation
